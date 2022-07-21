@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+🙋‍♀️ This is a github orgnization build for TechX CV-NLP course preview.
+🌈 There are several repositories you guys need to go through before the official start of the course. 
+👩‍💻 Follow each repository and endeavor to understand all the concepts covered.
+🍿 Self-motivated study is highly encouraged. Feel anything that is under explained? Google it!
+🧙 Please feel free to reach out to us if there is any problem.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
